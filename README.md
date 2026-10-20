@@ -13,7 +13,7 @@ A responsive personal portfolio built with plain HTML, CSS, and vanilla JavaScri
 3. Test mobile navigation, theme toggle, project filters, and form validation.
 
 ## Contact form note
-The contact form currently validates the input in the browser only. It does **not** send email or store messages. See the instructions provided in the accompanying ChatGPT response before connecting a real form service or backend.
+The contact form currently validates the input in the browser only. It does **not** send email or store messages. See the instructions provided in the accompanying response before connecting a real form service or backend.
 
 ## Before publishing
 - Verify all resume details and links.
